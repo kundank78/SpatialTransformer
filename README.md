@@ -31,6 +31,8 @@ The affine transformation is specified through the transformation matrix A
 <p align="center">
  <img src="./img/general.png" width="175px">
 </p>
+![](https://github.com/kundank78/Colorization_GAN/blob/master/img/cgan.png)
+
 
 It can be constrained to one of *attention* by writing it in the form
 
