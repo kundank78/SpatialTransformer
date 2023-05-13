@@ -41,3 +41,4 @@ where the parameters `s`, `t_x` and `t_y` can be regressed to allow cropping, tr
 
 
 
+First Batch Changes
